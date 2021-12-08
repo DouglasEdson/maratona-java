@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aulas05EstruturasCondicionais04 {
+public class Aula05EstruturasCondicionais04 {
     //€ 0	€ 34,712	9.70%
     //€ 34,713	€ 68,507	37.35%
     //€ 68,508		49.50%
