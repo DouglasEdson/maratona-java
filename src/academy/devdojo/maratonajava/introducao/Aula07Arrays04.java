@@ -14,5 +14,6 @@ public class Aula07Arrays04 {
         for (int num : numeros3) {
             System.out.println(num);
         }
+        System.out.println("Parei na Aula 35,");
     }
 }
