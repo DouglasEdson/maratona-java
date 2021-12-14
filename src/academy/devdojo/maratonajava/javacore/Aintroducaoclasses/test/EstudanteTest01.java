@@ -8,7 +8,7 @@ public class EstudanteTest01 {
         Estudante estudante = new Estudante();
         estudante.nome = "Lufy";
         estudante.idade = 21;
-        estudante.sexo = "M";
+        estudante.sexo = 'M';
 
         System.out.println(estudante.nome);
         System.out.println(estudante.idade);
