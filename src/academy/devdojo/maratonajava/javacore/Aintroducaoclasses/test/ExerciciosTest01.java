@@ -15,6 +15,8 @@ public class ExerciciosTest01 {
         carro02.modelo = "Tubarão";
         carro02.ano = 1986;
 
+        carro01 = carro02;
+
         System.out.println("Carro 01");
         System.out.println(carro01.nome + " " + carro01.modelo + " " + carro01.ano);
         System.out.println(" X ");
